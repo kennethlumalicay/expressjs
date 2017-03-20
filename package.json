@@ -1,7 +1,6 @@
 {
   "name": "expressjs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
     "express": "^4.15.2",
     "jade": "^1.11.0",
     "stylus": "^0.54.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethlumalicay/expressjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kennethlumalicay/expressjs/issues"
+  },
+  "homepage": "https://github.com/kennethlumalicay/expressjs#readme",
+  "description": ""
 }
